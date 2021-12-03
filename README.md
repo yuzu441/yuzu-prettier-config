@@ -23,12 +23,12 @@ const base = require('@yuzu441/prettier-config')
 
 module.exports = {
   ...base,
-  semi: true
+  semi: true,
 }
 ```
 
 If your use svelte
 
 ```javascript
-module.exports = require('@yuzu441/prettier-config/preset/svelte-prettier.js')
+module.exports = require('@yuzu441/prettier-config/preset/svelte-prettier')
 ```
