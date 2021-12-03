@@ -1,0 +1,24 @@
+{
+  "name": "@yuzu441/prettier-config",
+  "version": "0.0.1",
+  "description": "Prettier config for yuzu441",
+  "main": "index.js",
+  "scripts": {
+    "fmt": "prettier --config ./.prettierrc.js -w .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yuzu441/yuzu-prettier-config.git"
+  },
+  "keywords": [],
+  "author": "yuzu441",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuzu441/yuzu-prettier-config/issues"
+  },
+  "homepage": "https://github.com/yuzu441/yuzu-prettier-config#readme",
+  "devDependencies": {
+    "prettier": "^2.5.0"
+  }
+}
