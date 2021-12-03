@@ -1,5 +1,7 @@
 # @yuzu441/prettier-config
 
+[![npm version](https://badge.fury.io/js/@yuzu441%2Fprettier-config.svg)](https://badge.fury.io/js/@yuzu441%2Fprettier-config)
+
 ## Installation
 
 Install `@yuzu441/prettier-config`.
