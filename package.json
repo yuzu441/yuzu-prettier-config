@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/yuzu441/yuzu-prettier-config#readme",
   "devDependencies": {
-    "prettier": "^2.5.0"
+    "prettier": "2.5.0"
   }
 }
