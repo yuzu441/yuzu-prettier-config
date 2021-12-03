@@ -1,10 +1,11 @@
 {
   "name": "@yuzu441/prettier-config",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Prettier config for yuzu441",
   "main": "index.js",
   "scripts": {
     "fmt": "prettier --config ./.prettierrc.js -w .",
+    "prepublish": "npm run fmt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
