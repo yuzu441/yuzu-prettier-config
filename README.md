@@ -4,10 +4,10 @@
 
 ## Installation
 
-Install `@yuzu441/prettier-config`.
+Install `@yuzu441/prettier-config` and `prettier`.
 
 ```sh
-yarn add -D @yuzu441/prettier-config
+yarn add -D @yuzu441/prettier-config prettier
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ module.exports = {
 }
 ```
 
-If your use svelte
+If your use svelte, please install `prettier-plugin-svelte` additionally and configure the following.
 
 ```javascript
 module.exports = require('@yuzu441/prettier-config/preset/svelte-prettier')

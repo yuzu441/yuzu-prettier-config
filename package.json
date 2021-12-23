@@ -21,5 +21,8 @@
   "homepage": "https://github.com/yuzu441/yuzu-prettier-config#readme",
   "devDependencies": {
     "prettier": "2.5.1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.5.1"
   }
 }
