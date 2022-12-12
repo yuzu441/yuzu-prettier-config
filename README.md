@@ -7,10 +7,22 @@
 Install `@yuzu441/prettier-config` and `prettier`.
 
 ```sh
+npm i -D @yuzu441/prettier-config prettier 
+
+# or
+
 yarn add -D @yuzu441/prettier-config prettier
 ```
 
 ## Usage
+
+In your `package.json`
+
+```json
+{
+  "prettier": "@yuzu441/prettier-config",
+}
+```
 
 In your `prettier.config.js`
 
