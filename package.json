@@ -1,6 +1,6 @@
 {
   "name": "@yuzu441/prettier-config",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "description": "Prettier config for yuzu441",
   "main": "index.js",
   "scripts": {
@@ -19,10 +19,7 @@
     "url": "https://github.com/yuzu441/yuzu-prettier-config/issues"
   },
   "homepage": "https://github.com/yuzu441/yuzu-prettier-config#readme",
-  "devDependencies": {
-    "prettier": "2.5.1"
-  },
   "peerDependencies": {
-    "prettier": "^2.5.1"
+    "prettier": "2.8.1"
   }
 }
